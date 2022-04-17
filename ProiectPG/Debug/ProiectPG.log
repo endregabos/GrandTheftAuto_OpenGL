@@ -1,0 +1,28 @@
+﻿  Camera.cpp
+  mainPG.cpp
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\mainpg.cpp(169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\mainpg.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Mesh.cpp
+  Model3D.cpp
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\model3d.cpp(19): warning C4018: '<': signed/unsigned mismatch
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\model3d.cpp(61): warning C4018: '<': signed/unsigned mismatch
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\model3d.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating Code...
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewDeleteBuffers imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewDeleteVertexArrays imported
+  ProiectPG.vcxproj -> E:\Automatica si Calculatoare\ANUL 3 (FULL)\Prelucrare Grafica (PG)\save\ProiectPG\Debug\ProiectPG.exe

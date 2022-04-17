@@ -1,0 +1,22 @@
+﻿  mainPG.cpp
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\mainpg.cpp(169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\automatica si calculatoare\anul 3 (full)\prelucrare grafica (pg)\save\proiectpg\proiectpg\mainpg.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating code
+  1 of 2158 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewActiveTexture imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Mesh.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewDeleteVertexArrays imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewDeleteBuffers imported
+Model3D.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+  ProiectPG.vcxproj -> E:\Automatica si Calculatoare\ANUL 3 (FULL)\Prelucrare Grafica (PG)\save\ProiectPG\Release\ProiectPG.exe
